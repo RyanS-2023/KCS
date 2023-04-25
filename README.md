@@ -1,2 +1,0 @@
-# KCS
-Key-Commander Site
